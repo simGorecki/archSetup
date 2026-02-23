@@ -40,6 +40,14 @@ sudo pacman -Syu --noconfirm
 log "Installation des outils requis (git, base-devel, flatpak)"
 sudo pacman -S --needed --noconfirm git base-devel flatpak
 
+log 'Activation du dépôt multilibb (si nécessaire)'
+if grep -qE '^(steam|lib32-)' "$PACMAN_LIST" 2>/dev/null; then
+  if ! grep -q '^\[multilib\]' /etc/pacman.conf; then
+    sudo sed -i '/^\s*#\s*\[multilib\]/,/^\s*#\s*Include/ s/^\s*#\s*//' /etc/pacman.conf
+    sudo pacman -Sy --noconfirm
+  fi
+fi
+
 # --- Install yay if missing ---
 if ! command -v yay >/dev/null 2>&1; then
   log "yay non détecté -> installation depuis l'AUR"
