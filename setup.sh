@@ -3,11 +3,13 @@ set -euo pipefail #stop le script si il y a une erreur
 
 # ============================================
 # Résumé du script
-# - Installe les paquets pacman (install/pacman.txt)
-# - Installs yay (AUR helper) if missing
-# - Installs AUR packages via yay
-# - Installs Flatpak + apps
-# - Copies home/ into ~
+# - Mise à jours des paquets pacman
+# - Install les paquets (install/pacman.txt)
+# - Install yay
+# - Install des paquets yay
+# - Install Flatpak 
+# - Install des paquets apps Flatpak
+# - Copies de home/ dans ~
 # ============================================
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
@@ -18,7 +20,7 @@ PACMAN_LIST="$INSTALL_DIR/pacman.txt"
 AUR_LIST="$INSTALL_DIR/aur.txt"
 FLATPAK_LIST="$INSTALL_DIR/flatpak.txt"
 
-#fonction log utilisée plusieurs fois
+#fonction log pour print un message
 log() {
   echo "==> $*"
 }
@@ -32,7 +34,7 @@ if [[ ! -f /etc/arch-release ]]; then
   warn "Ce script est prévu pour Arch Linux. /etc/arch-release introuvable."
 fi
 
-# --- Update system ---
+# --- MaJ système / paquets ---
 log "Mise à jour du système (pacman -Syu)"
 sudo pacman -Syu --noconfirm
 
@@ -43,7 +45,7 @@ log 'Activation du dépôt multilibb'
 sudo sed -i '/^\s*#\s*\[multilib\]/,/^\s*#\s*Include/ s/^\s*#\s*//' /etc/pacman.conf
 sudo pacman -Sy --noconfirm
 
-# --- Install yay if missing ---
+# --- Install yay ---
 if ! command -v yay >/dev/null 2>&1; then
   log "yay non détecté -> installation depuis l'AUR"
   tmpdir="$(mktemp -d)"
@@ -57,7 +59,7 @@ else
   log "yay déjà présent"
 fi
 
-# --- Install pacman packages ---
+# --- Installation des paquets pacman ---
 if [[ -f "$PACMAN_LIST" ]]; then
   log "Installation des paquets pacman depuis $PACMAN_LIST"
   # If pacman.txt is empty, this will no-op
@@ -66,7 +68,7 @@ else
   warn "Fichier manquant: $PACMAN_LIST (skip pacman packages)"
 fi
 
-# --- Install AUR packages ---
+# --- Installation AUR pour YAY ---
 if [[ -f "$AUR_LIST" ]]; then
   log "Installation des paquets AUR depuis $AUR_LIST"
   # Avoid reinstalling yay from the list if it's included
@@ -75,7 +77,7 @@ else
   warn "Fichier manquant: $AUR_LIST (skip AUR packages)"
 fi
 
-# --- Flatpak: ensure flathub & install apps ---
+# --- Installation Flatpak ---
 log "Configuration de Flathub (si nécessaire)"
 flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo || true
 
@@ -91,7 +93,7 @@ else
   warn "Fichier manquant: $FLATPAK_LIST (skip flatpak apps)"
 fi
 
-# --- Copy home/ contents into ~ ---
+# --- Copie home/ dans ~ ---
 if [[ -d "$HOME_SRC_DIR" ]]; then
   log "Copie de $HOME_SRC_DIR/ vers $HOME"
   # -a preserve permissions/timestamps; avoid ownership issues if copied from another system
@@ -99,4 +101,4 @@ if [[ -d "$HOME_SRC_DIR" ]]; then
 fi
 
 log "Terminé ✅"
-echo "Conseil : déconnecte/reconnecte ta session (ou redémarre) pour appliquer certains réglages."
+echo "Conseil : reboot 2 fois"
