@@ -22,4 +22,3 @@ tree
 vim
 wget
 xdotool
-yay
