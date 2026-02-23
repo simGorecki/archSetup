@@ -1,63 +1,23 @@
 {
 	"file_history":
 	[
-		"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown/requirements.txt",
+		"/home/sgorecki/archSetup/install/aur.txt",
 		"/home/sgorecki/.config/sublime-text/Packages/Default/Preferences.sublime-settings",
 		"/home/sgorecki/.config/sublime-text/Packages/User/Preferences.sublime-settings",
-		"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown/main.py",
-		"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown/common/functions.py",
-		"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown/common/security.py",
-		"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown/common/rssChecker.py",
-		"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown/common/remoteRss.py",
-		"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown/common/logging_setup.py",
-		"/home/sgorecki/.config/Shutdown/config.json",
-		"/run/media/sgorecki/A6E2174AE2171DDD/Users/simon/AppData/Roaming/Mozilla/Firefox/profiles.ini",
-		"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown/common/menuManager.py",
-		"/home/sgorecki/.config/Shutdown/log.txt",
-		"/home/sgorecki/Documents/Shutdown/linux/linuxFunctions.py",
-		"/home/sgorecki/Documents/Shutdown/common/functions.py",
-		"/home/sgorecki/Documents/Shutdown/common/security.py",
-		"/home/sgorecki/Documents/Shutdown/windows/windowsFunctions.py",
-		"/home/sgorecki/Documents/Shutdown/main.py",
-		"/home/sgorecki/Documents/Shutdown/common/menuManager.py",
-		"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown/linux/linuxFunctions.py",
-		"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown/windows/windowsFunctions.py",
-		"/home/sgorecki/.config/Shutdown/config.json.enc",
-		"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown/common/__init__.py",
-		"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown_v2/main.py",
-		"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown_v2/linux/linuxFunctions.py",
-		"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown_v2/common/menuManager.py",
-		"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown_v2/common/functions.py",
-		"/run/media/sgorecki/PC_Thèse/Exploitation des systèmes d'info/Conv/Discussion WhatsApp avec Eugénie Galasso.txt",
-		"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown_v2/common/remoteRss.py",
-		"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown_v2/common/rssChecker.py",
-		"/home/sgorecki/.local/share/qBittorrent/BT_backup/93cd170103f05d57ee370f48a30b6f98b0a9bd92.fastresume",
-		"/home/sgorecki/.local/share/qBittorrent/BT_backup/93cd170103f05d57ee370f48a30b6f98b0a9bd92.torrent",
-		"/home/sgorecki/.local/share/qBittorrent/BT_backup/queue",
-		"/home/sgorecki/.local/share/qBittorrent/BT_backup/tmp.txt",
-		"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown_v2/windows/windowsFunctions.py",
-		"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown_v2/windows/test",
-		"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown_v2/common/security.py",
-		"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown_v2/common/__init__.py",
-		"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown/planificateurTaches.py",
-		"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown/menuManager.py",
-		"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown/functions.py",
-		"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown/security.py",
-		"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown_v2/windows/__init__.py",
-		"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown_v2/linux/__init__.py",
-		"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown/osDetection.py"
+		"/home/sgorecki/archSetup/setup.sh",
+		"/home/sgorecki/archSetup/README.md",
+		"/home/sgorecki/archSetup/install/pacman.txt",
+		"/home/sgorecki/.config/sublime-text/Packages/Theme - Default/Default.sublime-theme",
+		"/home/sgorecki/.config/sublime-text/Packages/User/Default.sublime-theme",
+		"/home/sgorecki/archSetup/install/flatpak.txt"
 	],
 	"folder_history":
 	[
-		"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown",
-		"/home/sgorecki/Documents/test",
-		"/home/sgorecki/Documents/Shutdown",
-		"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown_v2"
 	],
 	"last_version": 4200,
-	"last_window_id": 2,
+	"last_window_id": 3,
 	"log_indexing": false,
-	"next_update_check": 1771925683,
+	"next_update_check": 1771946578,
 	"settings":
 	{
 		"new_window_full_screen": false,
@@ -74,26 +34,6 @@
 			{
 				"selected_items":
 				[
-					[
-						"ser",
-						"service_file_content"
-					],
-					[
-						"clean",
-						"clean_desktop_path"
-					],
-					[
-						"clea",
-						"clean_desktop_content"
-					],
-					[
-						"file",
-						"file_path"
-					],
-					[
-						"con",
-						"configPath"
-					]
 				]
 			},
 			"build_system_choices":
@@ -127,49 +67,11 @@
 			},
 			"file_history":
 			[
-				"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown/requirements.txt",
-				"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown/main.py",
-				"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown/common/functions.py",
-				"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown/common/security.py",
-				"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown/common/rssChecker.py",
-				"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown/common/remoteRss.py",
-				"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown/common/logging_setup.py",
-				"/home/sgorecki/.config/Shutdown/config.json",
-				"/run/media/sgorecki/A6E2174AE2171DDD/Users/simon/AppData/Roaming/Mozilla/Firefox/profiles.ini",
-				"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown/common/menuManager.py",
-				"/home/sgorecki/.config/Shutdown/log.txt",
-				"/home/sgorecki/Documents/Shutdown/linux/linuxFunctions.py",
-				"/home/sgorecki/Documents/Shutdown/common/functions.py",
-				"/home/sgorecki/Documents/Shutdown/common/security.py",
-				"/home/sgorecki/Documents/Shutdown/windows/windowsFunctions.py",
-				"/home/sgorecki/Documents/Shutdown/main.py",
-				"/home/sgorecki/Documents/Shutdown/common/menuManager.py",
-				"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown/linux/linuxFunctions.py",
-				"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown/windows/windowsFunctions.py",
-				"/home/sgorecki/.config/Shutdown/config.json.enc",
-				"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown/common/__init__.py",
-				"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown_v2/main.py",
-				"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown_v2/linux/linuxFunctions.py",
-				"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown_v2/common/menuManager.py",
-				"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown_v2/common/functions.py",
-				"/run/media/sgorecki/PC_Thèse/Exploitation des systèmes d'info/Conv/Discussion WhatsApp avec Eugénie Galasso.txt",
-				"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown_v2/common/remoteRss.py",
-				"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown_v2/common/rssChecker.py",
-				"/home/sgorecki/.local/share/qBittorrent/BT_backup/93cd170103f05d57ee370f48a30b6f98b0a9bd92.fastresume",
-				"/home/sgorecki/.local/share/qBittorrent/BT_backup/93cd170103f05d57ee370f48a30b6f98b0a9bd92.torrent",
-				"/home/sgorecki/.local/share/qBittorrent/BT_backup/queue",
-				"/home/sgorecki/.local/share/qBittorrent/BT_backup/tmp.txt",
-				"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown_v2/windows/windowsFunctions.py",
-				"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown_v2/windows/test",
-				"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown_v2/common/security.py",
-				"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown_v2/common/__init__.py",
-				"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown/planificateurTaches.py",
-				"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown/menuManager.py",
-				"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown/functions.py",
-				"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown/security.py",
-				"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown_v2/windows/__init__.py",
-				"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown_v2/linux/__init__.py",
-				"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown/osDetection.py"
+				"/home/sgorecki/archSetup/setup.sh",
+				"/home/sgorecki/archSetup/install/aur.txt",
+				"/home/sgorecki/archSetup/README.md",
+				"/home/sgorecki/archSetup/install/pacman.txt",
+				"/home/sgorecki/archSetup/install/flatpak.txt"
 			],
 			"find":
 			{
@@ -177,13 +79,9 @@
 			},
 			"find_in_files":
 			{
-				"height": 154.0,
+				"height": 0.0,
 				"where_history":
 				[
-					"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown,<project filters>",
-					"/home/sgorecki/Documents/Shutdown,<project filters>",
-					"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown,<project filters>",
-					"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown_v2,<project filters>"
 				]
 			},
 			"find_state":
@@ -191,97 +89,8 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"encryptAll",
-					"hideAFile",
-					"def hideFile",
-					"def hideFile(",
-					"folder_is_hidden",
-					"site_keywords",
-					"Execution: ",
-					"checkRss",
-					"load_existing_torrents",
-					"\"config.json\"",
-					"loadConfig",
-					"\\\\",
-					"def hideFile(",
-					"def hideFile",
-					"hideFile_linux",
-					"common._CONFIG",
-					"loadConfig(",
-					"verificationFichierDeConfiguration",
-					"getConfigPath",
-					"jsonReader",
-					"isProgramR",
-					"hideFiles",
-					"hiddenVideosFolder",
-					"\"hiddenVideos\"",
-					"\"hiddenPictures\"",
-					"hiddenPictures",
-					"vuze",
-					"vize",
-					"vuze",
-					"vuzeFolder",
-					"vuze",
-					"def moveFile",
-					"moveFile",
-					"hideFile_linux",
-					"verificationFichierDeConfiguration",
-					"asExplicitName",
-					"hideFile",
-					"asExplicitName",
-					"hideFi",
-					"isFolder",
-					"isHi",
-					"isHid",
-					"folder_is_hidden",
-					"clearTorrentFolder",
-					"folder_is_hidden",
-					"icon",
-					"asExplicitName",
-					"keywords",
-					"cf.",
-					"get_key",
-					"cf ",
-					"cf",
-					"isAutoStartConfigured",
-					"(\">>\")",
-					"home()",
-					"home",
-					"get_key",
-					"win",
-					"checkAutoStartBasic",
-					"showExecStart",
-					"klljkjh",
-					"Jean",
-					"porn",
-					"cleanRss",
-					"name",
-					"asExplicitName",
-					", ",
-					"sgorecki",
-					"Path(",
-					"moveFile",
-					"isWebp",
-					"isVideo",
-					"isVideo(",
-					"isVideo",
-					"def is",
-					"isVideo",
-					"appdata",
-					"decrypt",
-					"pyP",
-					"path :",
-					"autoStart",
-					"msvcrt",
-					"win32con",
-					"appdata",
-					"win32con",
-					"win32",
-					"win32com",
-					"Image",
-					"win32gui",
-					"wmi",
-					"pyautogui"
+					"INSTALL_DIR",
+					"SCRIPT_DIR"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -289,14 +98,6 @@
 				"regex": false,
 				"replace_history":
 				[
-					"_CONFIG[\"cookies\"]",
-					"def hideAFile(",
-					"myOs.isProgramR",
-					"\"hiddenVideosFolder\"",
-					"\"hiddenPicturesFolder\"",
-					"torrentFolder",
-					"common.",
-					"\\n, "
 				],
 				"reverse": false,
 				"scrollbar_highlights": true,
@@ -312,7 +113,7 @@
 			},
 			"input":
 			{
-				"height": 54.0
+				"height": 0.0
 			},
 			"menu_visible": false,
 			"output.find_results":
@@ -359,7 +160,7 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 247.0,
+			"side_bar_width": 150.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
@@ -374,30 +175,19 @@
 			{
 				"selected_items":
 				[
-					[
-						"ser",
-						"service_file_content"
-					],
-					[
-						"clean",
-						"clean_desktop_path"
-					],
-					[
-						"clea",
-						"clean_desktop_content"
-					],
-					[
-						"file",
-						"file_path"
-					],
-					[
-						"con",
-						"configPath"
-					]
 				]
 			},
 			"buffers":
 			[
+				{
+					"file": "/home/sgorecki/archSetup/setup.sh",
+					"settings":
+					{
+						"buffer_size": 3325,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				}
 			],
 			"build_system": "",
 			"build_system_choices":
@@ -431,49 +221,11 @@
 			},
 			"file_history":
 			[
-				"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown/requirements.txt",
-				"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown/main.py",
-				"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown/common/functions.py",
-				"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown/common/security.py",
-				"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown/common/rssChecker.py",
-				"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown/common/remoteRss.py",
-				"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown/common/logging_setup.py",
-				"/home/sgorecki/.config/Shutdown/config.json",
-				"/run/media/sgorecki/A6E2174AE2171DDD/Users/simon/AppData/Roaming/Mozilla/Firefox/profiles.ini",
-				"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown/common/menuManager.py",
-				"/home/sgorecki/.config/Shutdown/log.txt",
-				"/home/sgorecki/Documents/Shutdown/linux/linuxFunctions.py",
-				"/home/sgorecki/Documents/Shutdown/common/functions.py",
-				"/home/sgorecki/Documents/Shutdown/common/security.py",
-				"/home/sgorecki/Documents/Shutdown/windows/windowsFunctions.py",
-				"/home/sgorecki/Documents/Shutdown/main.py",
-				"/home/sgorecki/Documents/Shutdown/common/menuManager.py",
-				"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown/linux/linuxFunctions.py",
-				"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown/windows/windowsFunctions.py",
-				"/home/sgorecki/.config/Shutdown/config.json.enc",
-				"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown/common/__init__.py",
-				"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown_v2/main.py",
-				"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown_v2/linux/linuxFunctions.py",
-				"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown_v2/common/menuManager.py",
-				"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown_v2/common/functions.py",
-				"/run/media/sgorecki/PC_Thèse/Exploitation des systèmes d'info/Conv/Discussion WhatsApp avec Eugénie Galasso.txt",
-				"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown_v2/common/remoteRss.py",
-				"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown_v2/common/rssChecker.py",
-				"/home/sgorecki/.local/share/qBittorrent/BT_backup/93cd170103f05d57ee370f48a30b6f98b0a9bd92.fastresume",
-				"/home/sgorecki/.local/share/qBittorrent/BT_backup/93cd170103f05d57ee370f48a30b6f98b0a9bd92.torrent",
-				"/home/sgorecki/.local/share/qBittorrent/BT_backup/queue",
-				"/home/sgorecki/.local/share/qBittorrent/BT_backup/tmp.txt",
-				"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown_v2/windows/windowsFunctions.py",
-				"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown_v2/windows/test",
-				"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown_v2/common/security.py",
-				"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown_v2/common/__init__.py",
-				"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown/planificateurTaches.py",
-				"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown/menuManager.py",
-				"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown/functions.py",
-				"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown/security.py",
-				"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown_v2/windows/__init__.py",
-				"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown_v2/linux/__init__.py",
-				"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown/osDetection.py"
+				"/home/sgorecki/archSetup/install/aur.txt",
+				"/home/sgorecki/archSetup/setup.sh",
+				"/home/sgorecki/archSetup/README.md",
+				"/home/sgorecki/archSetup/install/pacman.txt",
+				"/home/sgorecki/archSetup/install/flatpak.txt"
 			],
 			"find":
 			{
@@ -481,13 +233,9 @@
 			},
 			"find_in_files":
 			{
-				"height": 154.0,
+				"height": 0.0,
 				"where_history":
 				[
-					"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown,<project filters>",
-					"/home/sgorecki/Documents/Shutdown,<project filters>",
-					"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown,<project filters>",
-					"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown_v2,<project filters>"
 				]
 			},
 			"find_state":
@@ -495,97 +243,8 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"encryptAll",
-					"hideAFile",
-					"def hideFile",
-					"def hideFile(",
-					"folder_is_hidden",
-					"site_keywords",
-					"Execution: ",
-					"checkRss",
-					"load_existing_torrents",
-					"\"config.json\"",
-					"loadConfig",
-					"\\\\",
-					"def hideFile(",
-					"def hideFile",
-					"hideFile_linux",
-					"common._CONFIG",
-					"loadConfig(",
-					"verificationFichierDeConfiguration",
-					"getConfigPath",
-					"jsonReader",
-					"isProgramR",
-					"hideFiles",
-					"hiddenVideosFolder",
-					"\"hiddenVideos\"",
-					"\"hiddenPictures\"",
-					"hiddenPictures",
-					"vuze",
-					"vize",
-					"vuze",
-					"vuzeFolder",
-					"vuze",
-					"def moveFile",
-					"moveFile",
-					"hideFile_linux",
-					"verificationFichierDeConfiguration",
-					"asExplicitName",
-					"hideFile",
-					"asExplicitName",
-					"hideFi",
-					"isFolder",
-					"isHi",
-					"isHid",
-					"folder_is_hidden",
-					"clearTorrentFolder",
-					"folder_is_hidden",
-					"icon",
-					"asExplicitName",
-					"keywords",
-					"cf.",
-					"get_key",
-					"cf ",
-					"cf",
-					"isAutoStartConfigured",
-					"(\">>\")",
-					"home()",
-					"home",
-					"get_key",
-					"win",
-					"checkAutoStartBasic",
-					"showExecStart",
-					"klljkjh",
-					"Jean",
-					"porn",
-					"cleanRss",
-					"name",
-					"asExplicitName",
-					", ",
-					"sgorecki",
-					"Path(",
-					"moveFile",
-					"isWebp",
-					"isVideo",
-					"isVideo(",
-					"isVideo",
-					"def is",
-					"isVideo",
-					"appdata",
-					"decrypt",
-					"pyP",
-					"path :",
-					"autoStart",
-					"msvcrt",
-					"win32con",
-					"appdata",
-					"win32con",
-					"win32",
-					"win32com",
-					"Image",
-					"win32gui",
-					"wmi",
-					"pyautogui"
+					"INSTALL_DIR",
+					"SCRIPT_DIR"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -593,14 +252,6 @@
 				"regex": false,
 				"replace_history":
 				[
-					"_CONFIG[\"cookies\"]",
-					"def hideAFile(",
-					"myOs.isProgramR",
-					"\"hiddenVideosFolder\"",
-					"\"hiddenPicturesFolder\"",
-					"torrentFolder",
-					"common.",
-					"\\n, "
 				],
 				"reverse": false,
 				"scrollbar_highlights": true,
@@ -615,6 +266,38 @@
 				{
 					"sheets":
 					[
+						{
+							"buffer": 0,
+							"file": "/home/sgorecki/archSetup/setup.sh",
+							"selected": true,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3325,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/ShellScript/Bash.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"stack_multiselect": false,
+							"type": "text"
+						}
 					]
 				}
 			],
@@ -624,7 +307,7 @@
 			},
 			"input":
 			{
-				"height": 54.0
+				"height": 0.0
 			},
 			"layout":
 			{
@@ -699,7 +382,7 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 247.0,
+			"side_bar_width": 150.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
