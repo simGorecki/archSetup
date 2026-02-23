@@ -36,8 +36,8 @@ fi
 log "Mise à jour du système (pacman -Syu)"
 sudo pacman -Syu --noconfirm
 
-log "Installation des outils requis (git, base-devel, flatpak)"
-sudo pacman -S --needed --noconfirm git base-devel flatpak
+log "Installation des outils requis (base-devel, flatpak)"
+sudo pacman -S --needed --noconfirm base-devel flatpak
 
 log 'Activation du dépôt multilibb'
 sudo sed -i '/^\s*#\s*\[multilib\]/,/^\s*#\s*Include/ s/^\s*#\s*//' /etc/pacman.conf
