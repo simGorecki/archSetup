@@ -18,6 +18,11 @@ PACMAN_LIST="$INSTALL_DIR/pacman.txt"
 AUR_LIST="$INSTALL_DIR/aur.txt"
 FLATPAK_LIST="$INSTALL_DIR/flatpak.txt"
 
+#fonction log utilisée plusieurs fois
+log() {
+  echo "==> $*"
+}
+
 log "Installation en cours (repo: $SCRIPT_DIR)"
 
 # --- Basic sanity checks ---
