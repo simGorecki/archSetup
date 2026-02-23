@@ -1,0 +1,4 @@
+apple_cursor
+sublime-text-4
+synology-drive
+zoom

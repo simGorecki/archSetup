@@ -1,0 +1,3 @@
+com.usebottles.bottles
+org.onlyoffice.desktopeditors
+org.videolan.VLC

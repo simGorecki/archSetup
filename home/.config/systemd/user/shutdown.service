@@ -1,0 +1,13 @@
+[Unit]
+    Description=Nettoyage démarrage
+
+    [Service]
+    Type=simple
+    ExecStart=/usr/bin/python /home/sgorecki/SynologyDrive/autre/programmes/Shutdown/main.py -CLEAN
+    Restart=no
+    StandardOutput=journal
+    StandardError=journal
+
+    [Install]
+    WantedBy=default.target
+    
