@@ -1,0 +1,13 @@
+# VPN
+sudo openfortivpn
+
+# Gestionnaire de tâches
+btop
+
+# Ouvrir disque virtuel
+sudo modprobe nbx max_part=8
+sudo qemu-nbd --connect=/dev/nbd0 monfichier.vhd
+
+# lancer marchine virtuelle
+virt-manager
+
