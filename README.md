@@ -1,7 +1,14 @@
-# archSetup
+# Arch Linux - COSMOS Setup
+
+This repo contains my personal Arch Linux setup. 
+It automates:
+- Package installation (pacman + YAY + flatpak)
+- Desktop configuration
+- User configuration files
+
+# setup
 
 Télécharger le script
-
 ```bash
 git clone https://github.com/simGorecki/archSetup.git
 ```
