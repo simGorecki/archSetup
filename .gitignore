@@ -1,0 +1,15 @@
+#Archives / backup
+*.tar
+*.tar.gz
+*.zip
+*.bak
+
+#OS junk
+__pycache__/
+*.pyc
+
+#Logs
+*.log
+
+#Nodes
+node_modules/
