@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
-set -euo pipefail
+set -euo pipefail #stop le script si il y a une erreur
 
 # ============================================
-# Arch setup script
-# - Installs pacman packages
+# Résumé du script
+# - Installe les paquets pacman (install/pacman.txt)
 # - Installs yay (AUR helper) if missing
 # - Installs AUR packages via yay
 # - Installs Flatpak + apps
@@ -18,15 +18,10 @@ PACMAN_LIST="$INSTALL_DIR/pacman.txt"
 AUR_LIST="$INSTALL_DIR/aur.txt"
 FLATPAK_LIST="$INSTALL_DIR/flatpak.txt"
 
-log()  { echo -e "\n==> $*"; }
-warn() { echo -e "\n[WARN] $*" >&2; }
-die()  { echo -e "\n[ERROR] $*" >&2; exit 1; }
-
 log "Installation en cours (repo: $SCRIPT_DIR)"
 
 # --- Basic sanity checks ---
 [[ -d "$INSTALL_DIR" ]] || die "Dossier manquant: $INSTALL_DIR"
-[[ -d "$HOME_SRC_DIR" ]] || warn "Dossier home/ absent: $HOME_SRC_DIR (la copie des dotfiles sera ignorée)"
 
 if [[ ! -f /etc/arch-release ]]; then
   warn "Ce script est prévu pour Arch Linux. /etc/arch-release introuvable."
@@ -36,17 +31,12 @@ fi
 log "Mise à jour du système (pacman -Syu)"
 sudo pacman -Syu --noconfirm
 
-# --- Ensure essentials for the rest of the script ---
 log "Installation des outils requis (git, base-devel, flatpak)"
 sudo pacman -S --needed --noconfirm git base-devel flatpak
 
-log 'Activation du dépôt multilibb (si nécessaire)'
-if grep -qE '^(steam|lib32-)' "$PACMAN_LIST" 2>/dev/null; then
-  if ! grep -q '^\[multilib\]' /etc/pacman.conf; then
-    sudo sed -i '/^\s*#\s*\[multilib\]/,/^\s*#\s*Include/ s/^\s*#\s*//' /etc/pacman.conf
-    sudo pacman -Sy --noconfirm
-  fi
-fi
+log 'Activation du dépôt multilibb'
+sudo sed -i '/^\s*#\s*\[multilib\]/,/^\s*#\s*Include/ s/^\s*#\s*//' /etc/pacman.conf
+sudo pacman -Sy --noconfirm
 
 # --- Install yay if missing ---
 if ! command -v yay >/dev/null 2>&1; then
