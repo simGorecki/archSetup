@@ -1,10 +1,14 @@
 {
 	"file_history":
 	[
+		"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown/common/functions.py",
+		"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown/linux/linuxFunctions.py",
+		"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown/README.md",
+		"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown/.gitignore",
+		"/home/sgorecki/archSetup/setup.sh",
 		"/home/sgorecki/archSetup/install/aur.txt",
 		"/home/sgorecki/.config/sublime-text/Packages/Default/Preferences.sublime-settings",
 		"/home/sgorecki/.config/sublime-text/Packages/User/Preferences.sublime-settings",
-		"/home/sgorecki/archSetup/setup.sh",
 		"/home/sgorecki/archSetup/README.md",
 		"/home/sgorecki/archSetup/install/pacman.txt",
 		"/home/sgorecki/.config/sublime-text/Packages/Theme - Default/Default.sublime-theme",
@@ -13,6 +17,7 @@
 	],
 	"folder_history":
 	[
+		"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown"
 	],
 	"last_version": 4200,
 	"last_window_id": 3,
@@ -21,7 +26,7 @@
 	"settings":
 	{
 		"new_window_full_screen": false,
-		"new_window_height": 658.0,
+		"new_window_height": 664.0,
 		"new_window_maximized": false,
 		"new_window_position":
 		[
@@ -67,6 +72,11 @@
 			},
 			"file_history":
 			[
+				"/home/sgorecki/Nextcloud/MLT/BUT 3/Avis poursuite d'étude/notes.txt",
+				"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown/common/functions.py",
+				"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown/linux/linuxFunctions.py",
+				"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown/README.md",
+				"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown/.gitignore",
 				"/home/sgorecki/archSetup/setup.sh",
 				"/home/sgorecki/archSetup/install/aur.txt",
 				"/home/sgorecki/archSetup/README.md",
@@ -160,13 +170,13 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 150.0,
+			"side_bar_width": 181.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			}
 		},
-		"new_window_width": 1271.0
+		"new_window_width": 1277.0
 	},
 	"windows":
 	[
@@ -180,13 +190,598 @@
 			"buffers":
 			[
 				{
-					"file": "/home/sgorecki/archSetup/setup.sh",
+					"file": "/home/sgorecki/Nextcloud/MLT/BUT 3/Avis poursuite d'étude/notes.txt",
 					"settings":
 					{
-						"buffer_size": 3325,
+						"buffer_size": 870,
 						"encoding": "UTF-8",
-						"line_ending": "Unix"
-					}
+						"line_ending": "Windows"
+					},
+					"undo_stack":
+					[
+						[
+							3,
+							1,
+							"insert",
+							{
+								"characters": "\n---"
+							},
+							"BAAAAH4CAAAAAAAAfwIAAAAAAAAAAAAAfwIAAAAAAACAAgAAAAAAAAAAAACAAgAAAAAAAIECAAAAAAAAAAAAAIECAAAAAAAAggIAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAB+AgAAAAAAAH4CAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							4,
+							1,
+							"insert",
+							{
+								"characters": " autre"
+							},
+							"BgAAAIICAAAAAAAAgwIAAAAAAAAAAAAAgwIAAAAAAACEAgAAAAAAAAAAAACEAgAAAAAAAIUCAAAAAAAAAAAAAIUCAAAAAAAAhgIAAAAAAAAAAAAAhgIAAAAAAACHAgAAAAAAAAAAAACHAgAAAAAAAIgCAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACCAgAAAAAAAIICAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							5,
+							1,
+							"insert",
+							{
+								"characters": " alternative"
+							},
+							"DAAAAIgCAAAAAAAAiQIAAAAAAAAAAAAAiQIAAAAAAACKAgAAAAAAAAAAAACKAgAAAAAAAIsCAAAAAAAAAAAAAIsCAAAAAAAAjAIAAAAAAAAAAAAAjAIAAAAAAACNAgAAAAAAAAAAAACNAgAAAAAAAI4CAAAAAAAAAAAAAI4CAAAAAAAAjwIAAAAAAAAAAAAAjwIAAAAAAACQAgAAAAAAAAAAAACQAgAAAAAAAJECAAAAAAAAAAAAAJECAAAAAAAAkgIAAAAAAAAAAAAAkgIAAAAAAACTAgAAAAAAAAAAAACTAgAAAAAAAJQCAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACIAgAAAAAAAIgCAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							6,
+							1,
+							"insert",
+							{
+								"characters": " explorée"
+							},
+							"CQAAAJQCAAAAAAAAlQIAAAAAAAAAAAAAlQIAAAAAAACWAgAAAAAAAAAAAACWAgAAAAAAAJcCAAAAAAAAAAAAAJcCAAAAAAAAmAIAAAAAAAAAAAAAmAIAAAAAAACZAgAAAAAAAAAAAACZAgAAAAAAAJoCAAAAAAAAAAAAAJoCAAAAAAAAmwIAAAAAAAAAAAAAmwIAAAAAAACcAgAAAAAAAAAAAACcAgAAAAAAAJ0CAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACUAgAAAAAAAJQCAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							7,
+							1,
+							"insert",
+							{
+								"characters": " en"
+							},
+							"AwAAAJ0CAAAAAAAAngIAAAAAAAAAAAAAngIAAAAAAACfAgAAAAAAAAAAAACfAgAAAAAAAKACAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACdAgAAAAAAAJ0CAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							8,
+							1,
+							"insert",
+							{
+								"characters": " 25-26"
+							},
+							"BgAAAKACAAAAAAAAoQIAAAAAAAAAAAAAoQIAAAAAAACiAgAAAAAAAAAAAACiAgAAAAAAAKMCAAAAAAAAAAAAAKMCAAAAAAAApAIAAAAAAAAAAAAApAIAAAAAAAClAgAAAAAAAAAAAAClAgAAAAAAAKYCAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACgAgAAAAAAAKACAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							9,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AQAAAKYCAAAAAAAApwIAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACmAgAAAAAAAKYCAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							12,
+							1,
+							"insert",
+							{
+								"characters": "Notes"
+							},
+							"BQAAAKcCAAAAAAAAqAIAAAAAAAAAAAAAqAIAAAAAAACpAgAAAAAAAAAAAACpAgAAAAAAAKoCAAAAAAAAAAAAAKoCAAAAAAAAqwIAAAAAAAAAAAAAqwIAAAAAAACsAgAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACnAgAAAAAAAKcCAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							13,
+							1,
+							"insert",
+							{
+								"characters": " >"
+							},
+							"AgAAAKwCAAAAAAAArQIAAAAAAAAAAAAArQIAAAAAAACuAgAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACsAgAAAAAAAKwCAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							14,
+							1,
+							"insert",
+							{
+								"characters": " Talb"
+							},
+							"BQAAAK4CAAAAAAAArwIAAAAAAAAAAAAArwIAAAAAAACwAgAAAAAAAAAAAACwAgAAAAAAALECAAAAAAAAAAAAALECAAAAAAAAsgIAAAAAAAAAAAAAsgIAAAAAAACzAgAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACuAgAAAAAAAK4CAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							15,
+							2,
+							"left_delete",
+							null,
+							"AgAAALICAAAAAAAAsgIAAAAAAAABAAAAYrECAAAAAAAAsQIAAAAAAAABAAAAbA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACzAgAAAAAAALMCAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							16,
+							1,
+							"insert",
+							{
+								"characters": "bleaux"
+							},
+							"BgAAALECAAAAAAAAsgIAAAAAAAAAAAAAsgIAAAAAAACzAgAAAAAAAAAAAACzAgAAAAAAALQCAAAAAAAAAAAAALQCAAAAAAAAtQIAAAAAAAAAAAAAtQIAAAAAAAC2AgAAAAAAAAAAAAC2AgAAAAAAALcCAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACxAgAAAAAAALECAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							17,
+							1,
+							"insert",
+							{
+								"characters": " et"
+							},
+							"AwAAALcCAAAAAAAAuAIAAAAAAAAAAAAAuAIAAAAAAAC5AgAAAAAAAAAAAAC5AgAAAAAAALoCAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAC3AgAAAAAAALcCAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							18,
+							1,
+							"insert",
+							{
+								"characters": " moyennes"
+							},
+							"CQAAALoCAAAAAAAAuwIAAAAAAAAAAAAAuwIAAAAAAAC8AgAAAAAAAAAAAAC8AgAAAAAAAL0CAAAAAAAAAAAAAL0CAAAAAAAAvgIAAAAAAAAAAAAAvgIAAAAAAAC/AgAAAAAAAAAAAAC/AgAAAAAAAMACAAAAAAAAAAAAAMACAAAAAAAAwQIAAAAAAAAAAAAAwQIAAAAAAADCAgAAAAAAAAAAAADCAgAAAAAAAMMCAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAC6AgAAAAAAALoCAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							19,
+							1,
+							"insert",
+							{
+								"characters": " "
+							},
+							"AQAAAMMCAAAAAAAAxAIAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADDAgAAAAAAAMMCAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							20,
+							1,
+							"insert",
+							{
+								"characters": "\nen"
+							},
+							"AwAAAMQCAAAAAAAAxQIAAAAAAAAAAAAAxQIAAAAAAADGAgAAAAAAAAAAAADGAgAAAAAAAMcCAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADEAgAAAAAAAMQCAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							21,
+							1,
+							"insert",
+							{
+								"characters": " haut"
+							},
+							"BQAAAMcCAAAAAAAAyAIAAAAAAAAAAAAAyAIAAAAAAADJAgAAAAAAAAAAAADJAgAAAAAAAMoCAAAAAAAAAAAAAMoCAAAAAAAAywIAAAAAAAAAAAAAywIAAAAAAADMAgAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADHAgAAAAAAAMcCAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							22,
+							1,
+							"insert",
+							{
+								"characters": " à"
+							},
+							"AgAAAMwCAAAAAAAAzQIAAAAAAAAAAAAAzQIAAAAAAADOAgAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADMAgAAAAAAAMwCAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							23,
+							1,
+							"insert",
+							{
+								"characters": " gauche,"
+							},
+							"CAAAAM4CAAAAAAAAzwIAAAAAAAAAAAAAzwIAAAAAAADQAgAAAAAAAAAAAADQAgAAAAAAANECAAAAAAAAAAAAANECAAAAAAAA0gIAAAAAAAAAAAAA0gIAAAAAAADTAgAAAAAAAAAAAADTAgAAAAAAANQCAAAAAAAAAAAAANQCAAAAAAAA1QIAAAAAAAAAAAAA1QIAAAAAAADWAgAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADOAgAAAAAAAM4CAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							24,
+							1,
+							"insert",
+							{
+								"characters": " liste"
+							},
+							"BgAAANYCAAAAAAAA1wIAAAAAAAAAAAAA1wIAAAAAAADYAgAAAAAAAAAAAADYAgAAAAAAANkCAAAAAAAAAAAAANkCAAAAAAAA2gIAAAAAAAAAAAAA2gIAAAAAAADbAgAAAAAAAAAAAADbAgAAAAAAANwCAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADWAgAAAAAAANYCAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							25,
+							1,
+							"insert",
+							{
+								"characters": " déroulante"
+							},
+							"CwAAANwCAAAAAAAA3QIAAAAAAAAAAAAA3QIAAAAAAADeAgAAAAAAAAAAAADeAgAAAAAAAN8CAAAAAAAAAAAAAN8CAAAAAAAA4AIAAAAAAAAAAAAA4AIAAAAAAADhAgAAAAAAAAAAAADhAgAAAAAAAOICAAAAAAAAAAAAAOICAAAAAAAA4wIAAAAAAAAAAAAA4wIAAAAAAADkAgAAAAAAAAAAAADkAgAAAAAAAOUCAAAAAAAAAAAAAOUCAAAAAAAA5gIAAAAAAAAAAAAA5gIAAAAAAADnAgAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADcAgAAAAAAANwCAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							26,
+							1,
+							"insert",
+							{
+								"characters": " -"
+							},
+							"AgAAAOcCAAAAAAAA6AIAAAAAAAAAAAAA6AIAAAAAAADpAgAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADnAgAAAAAAAOcCAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							27,
+							1,
+							"left_delete",
+							null,
+							"AQAAAOgCAAAAAAAA6AIAAAAAAAABAAAALQ",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADpAgAAAAAAAOkCAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							28,
+							1,
+							"insert",
+							{
+								"characters": ">"
+							},
+							"AQAAAOgCAAAAAAAA6QIAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADoAgAAAAAAAOgCAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							29,
+							1,
+							"insert",
+							{
+								"characters": " "
+							},
+							"AQAAAOkCAAAAAAAA6gIAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADpAgAAAAAAAOkCAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							32,
+							1,
+							"insert",
+							{
+								"characters": "Excel"
+							},
+							"BQAAAOoCAAAAAAAA6wIAAAAAAAAAAAAA6wIAAAAAAADsAgAAAAAAAAAAAADsAgAAAAAAAO0CAAAAAAAAAAAAAO0CAAAAAAAA7gIAAAAAAAAAAAAA7gIAAAAAAADvAgAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADqAgAAAAAAAOoCAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							33,
+							1,
+							"insert",
+							{
+								"characters": " avec"
+							},
+							"BQAAAO8CAAAAAAAA8AIAAAAAAAAAAAAA8AIAAAAAAADxAgAAAAAAAAAAAADxAgAAAAAAAPICAAAAAAAAAAAAAPICAAAAAAAA8wIAAAAAAAAAAAAA8wIAAAAAAAD0AgAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADvAgAAAAAAAO8CAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							34,
+							1,
+							"insert",
+							{
+								"characters": " colonnes"
+							},
+							"CQAAAPQCAAAAAAAA9QIAAAAAAAAAAAAA9QIAAAAAAAD2AgAAAAAAAAAAAAD2AgAAAAAAAPcCAAAAAAAAAAAAAPcCAAAAAAAA+AIAAAAAAAAAAAAA+AIAAAAAAAD5AgAAAAAAAAAAAAD5AgAAAAAAAPoCAAAAAAAAAAAAAPoCAAAAAAAA+wIAAAAAAAAAAAAA+wIAAAAAAAD8AgAAAAAAAAAAAAD8AgAAAAAAAP0CAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAD0AgAAAAAAAPQCAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							35,
+							1,
+							"insert",
+							{
+								"characters": " telles"
+							},
+							"BwAAAP0CAAAAAAAA/gIAAAAAAAAAAAAA/gIAAAAAAAD/AgAAAAAAAAAAAAD/AgAAAAAAAAADAAAAAAAAAAAAAAADAAAAAAAAAQMAAAAAAAAAAAAAAQMAAAAAAAACAwAAAAAAAAAAAAACAwAAAAAAAAMDAAAAAAAAAAAAAAMDAAAAAAAABAMAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAD9AgAAAAAAAP0CAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							36,
+							1,
+							"insert",
+							{
+								"characters": " qu'affichées"
+							},
+							"DQAAAAQDAAAAAAAABQMAAAAAAAAAAAAABQMAAAAAAAAGAwAAAAAAAAAAAAAGAwAAAAAAAAcDAAAAAAAAAAAAAAcDAAAAAAAACAMAAAAAAAAAAAAACAMAAAAAAAAJAwAAAAAAAAAAAAAJAwAAAAAAAAoDAAAAAAAAAAAAAAoDAAAAAAAACwMAAAAAAAAAAAAACwMAAAAAAAAMAwAAAAAAAAAAAAAMAwAAAAAAAA0DAAAAAAAAAAAAAA0DAAAAAAAADgMAAAAAAAAAAAAADgMAAAAAAAAPAwAAAAAAAAAAAAAPAwAAAAAAABADAAAAAAAAAAAAABADAAAAAAAAEQMAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAEAwAAAAAAAAQDAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							37,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AQAAABEDAAAAAAAAEgMAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAARAwAAAAAAABEDAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							43,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AQAAAMUCAAAAAAAAxgIAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADFAgAAAAAAAMUCAAAAAAAAAAAAAAAAAAA"
+						],
+						[
+							45,
+							1,
+							"insert",
+							{
+								"characters": "\non"
+							},
+							"AwAAABMDAAAAAAAAFAMAAAAAAAAAAAAAFAMAAAAAAAAVAwAAAAAAAAAAAAAVAwAAAAAAABYDAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAATAwAAAAAAABMDAAAAAAAAAAAAAAAAAAA"
+						],
+						[
+							46,
+							1,
+							"insert",
+							{
+								"characters": " va"
+							},
+							"AwAAABYDAAAAAAAAFwMAAAAAAAAAAAAAFwMAAAAAAAAYAwAAAAAAAAAAAAAYAwAAAAAAABkDAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAWAwAAAAAAABYDAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							47,
+							1,
+							"insert",
+							{
+								"characters": " utiliser"
+							},
+							"CQAAABkDAAAAAAAAGgMAAAAAAAAAAAAAGgMAAAAAAAAbAwAAAAAAAAAAAAAbAwAAAAAAABwDAAAAAAAAAAAAABwDAAAAAAAAHQMAAAAAAAAAAAAAHQMAAAAAAAAeAwAAAAAAAAAAAAAeAwAAAAAAAB8DAAAAAAAAAAAAAB8DAAAAAAAAIAMAAAAAAAAAAAAAIAMAAAAAAAAhAwAAAAAAAAAAAAAhAwAAAAAAACIDAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAZAwAAAAAAABkDAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							48,
+							1,
+							"insert",
+							{
+								"characters": " la"
+							},
+							"AwAAACIDAAAAAAAAIwMAAAAAAAAAAAAAIwMAAAAAAAAkAwAAAAAAAAAAAAAkAwAAAAAAACUDAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAiAwAAAAAAACIDAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							49,
+							1,
+							"insert",
+							{
+								"characters": " colonne"
+							},
+							"CAAAACUDAAAAAAAAJgMAAAAAAAAAAAAAJgMAAAAAAAAnAwAAAAAAAAAAAAAnAwAAAAAAACgDAAAAAAAAAAAAACgDAAAAAAAAKQMAAAAAAAAAAAAAKQMAAAAAAAAqAwAAAAAAAAAAAAAqAwAAAAAAACsDAAAAAAAAAAAAACsDAAAAAAAALAMAAAAAAAAAAAAALAMAAAAAAAAtAwAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAlAwAAAAAAACUDAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							50,
+							1,
+							"insert",
+							{
+								"characters": " "
+							},
+							"AQAAAC0DAAAAAAAALgMAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAtAwAAAAAAAC0DAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							51,
+							1,
+							"insert_snippet",
+							{
+								"contents": "\"$0\""
+							},
+							"AQAAAC4DAAAAAAAAMAMAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAuAwAAAAAAAC4DAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							52,
+							1,
+							"insert",
+							{
+								"characters": "H"
+							},
+							"AQAAAC8DAAAAAAAAMAMAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAvAwAAAAAAAC8DAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							54,
+							1,
+							"insert",
+							{
+								"characters": " "
+							},
+							"AQAAADEDAAAAAAAAMgMAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAxAwAAAAAAADEDAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							55,
+							1,
+							"insert_snippet",
+							{
+								"contents": "\"$0\""
+							},
+							"AQAAADIDAAAAAAAANAMAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAyAwAAAAAAADIDAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							56,
+							1,
+							"insert",
+							{
+								"characters": "Moy"
+							},
+							"AwAAADMDAAAAAAAANAMAAAAAAAAAAAAANAMAAAAAAAA1AwAAAAAAAAAAAAA1AwAAAAAAADYDAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAzAwAAAAAAADMDAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							58,
+							1,
+							"insert",
+							{
+								"characters": " par"
+							},
+							"BAAAADcDAAAAAAAAOAMAAAAAAAAAAAAAOAMAAAAAAAA5AwAAAAAAAAAAAAA5AwAAAAAAADoDAAAAAAAAAAAAADoDAAAAAAAAOwMAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA3AwAAAAAAADcDAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							59,
+							1,
+							"insert",
+							{
+								"characters": " semestres"
+							},
+							"CgAAADsDAAAAAAAAPAMAAAAAAAAAAAAAPAMAAAAAAAA9AwAAAAAAAAAAAAA9AwAAAAAAAD4DAAAAAAAAAAAAAD4DAAAAAAAAPwMAAAAAAAAAAAAAPwMAAAAAAABAAwAAAAAAAAAAAABAAwAAAAAAAEEDAAAAAAAAAAAAAEEDAAAAAAAAQgMAAAAAAAAAAAAAQgMAAAAAAABDAwAAAAAAAAAAAABDAwAAAAAAAEQDAAAAAAAAAAAAAEQDAAAAAAAARQMAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA7AwAAAAAAADsDAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							3,
+							1,
+							"insert",
+							{
+								"characters": "\n\naffi"
+							},
+							"BgAAAMQCAAAAAAAAxQIAAAAAAAAAAAAAxQIAAAAAAADGAgAAAAAAAAAAAADGAgAAAAAAAMcCAAAAAAAAAAAAAMcCAAAAAAAAyAIAAAAAAAAAAAAAyAIAAAAAAADJAgAAAAAAAAAAAADJAgAAAAAAAMoCAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAxAIAAAAAAADEAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							4,
+							1,
+							"delete_word",
+							{
+								"forward": false
+							},
+							"AQAAAMYCAAAAAAAAxgIAAAAAAAAEAAAAYWZmaQ",
+							"AQAAAAAAAAABAAAAygIAAAAAAADKAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							5,
+							1,
+							"insert",
+							{
+								"characters": "c"
+							},
+							"AQAAAMYCAAAAAAAAxwIAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAxgIAAAAAAADGAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							6,
+							1,
+							"left_delete",
+							null,
+							"AQAAAMYCAAAAAAAAxgIAAAAAAAABAAAAYw",
+							"AQAAAAAAAAABAAAAxwIAAAAAAADHAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							7,
+							1,
+							"insert",
+							{
+								"characters": "a"
+							},
+							"AQAAAMYCAAAAAAAAxwIAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAxgIAAAAAAADGAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							8,
+							1,
+							"left_delete",
+							null,
+							"AQAAAMYCAAAAAAAAxgIAAAAAAAABAAAAYQ",
+							"AQAAAAAAAAABAAAAxwIAAAAAAADHAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							9,
+							1,
+							"insert",
+							{
+								"characters": "cliquer"
+							},
+							"BwAAAMYCAAAAAAAAxwIAAAAAAAAAAAAAxwIAAAAAAADIAgAAAAAAAAAAAADIAgAAAAAAAMkCAAAAAAAAAAAAAMkCAAAAAAAAygIAAAAAAAAAAAAAygIAAAAAAADLAgAAAAAAAAAAAADLAgAAAAAAAMwCAAAAAAAAAAAAAMwCAAAAAAAAzQIAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAxgIAAAAAAADGAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							10,
+							1,
+							"insert",
+							{
+								"characters": " le"
+							},
+							"AwAAAM0CAAAAAAAAzgIAAAAAAAAAAAAAzgIAAAAAAADPAgAAAAAAAAAAAADPAgAAAAAAANACAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAzQIAAAAAAADNAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							11,
+							1,
+							"insert",
+							{
+								"characters": " le"
+							},
+							"AwAAANACAAAAAAAA0QIAAAAAAAAAAAAA0QIAAAAAAADSAgAAAAAAAAAAAADSAgAAAAAAANMCAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA0AIAAAAAAADQAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							12,
+							1,
+							"insert",
+							{
+								"characters": " bouton"
+							},
+							"BwAAANMCAAAAAAAA1AIAAAAAAAAAAAAA1AIAAAAAAADVAgAAAAAAAAAAAADVAgAAAAAAANYCAAAAAAAAAAAAANYCAAAAAAAA1wIAAAAAAAAAAAAA1wIAAAAAAADYAgAAAAAAAAAAAADYAgAAAAAAANkCAAAAAAAAAAAAANkCAAAAAAAA2gIAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA0wIAAAAAAADTAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							13,
+							1,
+							"insert",
+							{
+								"characters": " "
+							},
+							"AQAAANoCAAAAAAAA2wIAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA2gIAAAAAAADaAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							14,
+							1,
+							"insert_snippet",
+							{
+								"contents": "\"$0\""
+							},
+							"AQAAANsCAAAAAAAA3QIAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA2wIAAAAAAADbAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							15,
+							1,
+							"insert",
+							{
+								"characters": "Civilité"
+							},
+							"CAAAANwCAAAAAAAA3QIAAAAAAAAAAAAA3QIAAAAAAADeAgAAAAAAAAAAAADeAgAAAAAAAN8CAAAAAAAAAAAAAN8CAAAAAAAA4AIAAAAAAAAAAAAA4AIAAAAAAADhAgAAAAAAAAAAAADhAgAAAAAAAOICAAAAAAAAAAAAAOICAAAAAAAA4wIAAAAAAAAAAAAA4wIAAAAAAADkAgAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA3AIAAAAAAADcAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							19,
+							1,
+							"insert",
+							{
+								"characters": "J"
+							},
+							"AQAAAFADAAAAAAAAUQMAAAAAAAABAAAASA",
+							"AQAAAAAAAAABAAAAUQMAAAAAAABQAwAAAAAAAAAAAAAAAPC/"
+						]
+					]
 				}
 			],
 			"build_system": "",
@@ -219,10 +814,20 @@
 				"side_bar_visible": false,
 				"status_bar_visible": false
 			},
+			"expanded_folders":
+			[
+				"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown",
+				"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown/common",
+				"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown/linux"
+			],
 			"file_history":
 			[
-				"/home/sgorecki/archSetup/install/aur.txt",
+				"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown/common/functions.py",
+				"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown/linux/linuxFunctions.py",
+				"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown/README.md",
+				"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown/.gitignore",
 				"/home/sgorecki/archSetup/setup.sh",
+				"/home/sgorecki/archSetup/install/aur.txt",
 				"/home/sgorecki/archSetup/README.md",
 				"/home/sgorecki/archSetup/install/pacman.txt",
 				"/home/sgorecki/archSetup/install/flatpak.txt"
@@ -261,6 +866,12 @@
 				"whole_word": false,
 				"wrap": true
 			},
+			"folders":
+			[
+				{
+					"path": "/home/sgorecki/SynologyDrive/autre/programmes/Shutdown"
+				}
+			],
 			"groups":
 			[
 				{
@@ -268,30 +879,30 @@
 					[
 						{
 							"buffer": 0,
-							"file": "/home/sgorecki/archSetup/setup.sh",
+							"file": "/home/sgorecki/Nextcloud/MLT/BUT 3/Avis poursuite d'étude/notes.txt",
 							"selected": true,
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 3325,
+								"buffer_size": 870,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										0,
-										0
+										439,
+										439
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/ShellScript/Bash.sublime-syntax",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": false
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 345.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
@@ -340,7 +951,7 @@
 				]
 			},
 			"pinned_build_system": "",
-			"position": "0,0,0,0,0,20,20,1291,678,7040,1440,0",
+			"position": "0,0,0,0,0,20,20,1297,684,7040,1440,0",
 			"project": "",
 			"replace":
 			{
@@ -382,7 +993,7 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 150.0,
+			"side_bar_width": 181.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{

@@ -29,3 +29,12 @@ Supprimer le script
 cd ..
 rm -rf archSetup
 ```
+
+# Script pour mettre à jours le dotfiles
+```bash
+sudo chmod +x importDotfiles.sh
+./importDotfiles.sh
+git add -A
+git commit -m "description des modifications"
+git push
+```

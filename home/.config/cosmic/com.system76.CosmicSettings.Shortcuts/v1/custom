@@ -2,8 +2,16 @@
     (
         modifiers: [
             Super,
+            Shift,
         ],
-    ): System(Launcher),
+        key: "s",
+    ): System(Screenshot),
+    (
+        modifiers: [
+            Super,
+        ],
+        key: "w",
+    ): System(WorkspaceOverview),
     (
         modifiers: [
             Super,
@@ -15,33 +23,7 @@
         modifiers: [
             Super,
         ],
-        key: "slash",
     ): Disable,
-    (
-        modifiers: [
-            Super,
-        ],
-        key: "Return",
-        description: Some("Terminal"),
-    ): Spawn("kitty"),
-    (
-        modifiers: [
-            Super,
-        ],
-        key: "quotedbl",
-    ): Workspace(3),
-    (
-        modifiers: [
-            Super,
-        ],
-        key: "w",
-    ): System(WorkspaceOverview),
-    (
-        modifiers: [
-            Super,
-        ],
-        key: "ampersand",
-    ): Workspace(1),
     (
         modifiers: [
             Super,
@@ -52,7 +34,13 @@
         modifiers: [
             Super,
         ],
-        key: "4",
+        key: "eacute",
+    ): Workspace(2),
+    (
+        modifiers: [
+            Super,
+        ],
+        key: "t",
     ): Disable,
     (
         modifiers: [
@@ -64,27 +52,20 @@
         modifiers: [
             Super,
         ],
-        key: "apostrophe",
-    ): Workspace(4),
-    (
-        modifiers: [
-            Super,
-        ],
-        key: "t",
+        key: "slash",
     ): Disable,
     (
         modifiers: [
             Super,
-            Shift,
         ],
-        key: "s",
-    ): System(Screenshot),
+        key: "quotedbl",
+    ): Workspace(3),
     (
         modifiers: [
             Super,
         ],
-        key: "eacute",
-    ): Workspace(2),
+        key: "4",
+    ): Disable,
     (
         modifiers: [
             Alt,
@@ -97,4 +78,23 @@
         ],
         key: "2",
     ): Disable,
+    (
+        modifiers: [
+            Super,
+        ],
+        key: "ampersand",
+    ): Workspace(1),
+    (
+        modifiers: [
+            Super,
+        ],
+        key: "apostrophe",
+    ): Workspace(4),
+    (
+        modifiers: [
+            Super,
+        ],
+        key: "Return",
+        description: Some("Terminal"),
+    ): Spawn("kitty"),
 }

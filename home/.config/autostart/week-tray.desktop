@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Week Number Tray
+Comment=Affiche le numéro de semaine dans la barre
+Exec=/home/sgorecki/Scripts/numeroSemaine/week_tray.py
+Terminal=false
+StartupNotify=false
+X-GNOME-Autostart-enabled=true
+

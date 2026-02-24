@@ -1,0 +1,377 @@
+{
+	"file_history":
+	[
+		"/home/sgorecki/Scripts/test/importDotfiles.sh",
+		"/home/sgorecki/Nextcloud/MLT/BUT 3/Avis poursuite d'étude/notes.txt",
+		"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown/common/functions.py",
+		"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown/linux/linuxFunctions.py",
+		"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown/README.md",
+		"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown/.gitignore",
+		"/home/sgorecki/archSetup/setup.sh",
+		"/home/sgorecki/archSetup/install/aur.txt",
+		"/home/sgorecki/.config/sublime-text/Packages/Default/Preferences.sublime-settings",
+		"/home/sgorecki/.config/sublime-text/Packages/User/Preferences.sublime-settings",
+		"/home/sgorecki/archSetup/README.md",
+		"/home/sgorecki/archSetup/install/pacman.txt",
+		"/home/sgorecki/.config/sublime-text/Packages/Theme - Default/Default.sublime-theme",
+		"/home/sgorecki/.config/sublime-text/Packages/User/Default.sublime-theme",
+		"/home/sgorecki/archSetup/install/flatpak.txt"
+	],
+	"folder_history":
+	[
+		"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown"
+	],
+	"last_version": 4200,
+	"last_window_id": 3,
+	"log_indexing": false,
+	"next_update_check": 1772032978,
+	"settings":
+	{
+		"new_window_full_screen": false,
+		"new_window_height": 664.0,
+		"new_window_maximized": false,
+		"new_window_position":
+		[
+			20.0,
+			57.0
+		],
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/sgorecki/Nextcloud/MLT/BUT 3/Avis poursuite d'étude/notes.txt",
+				"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown/common/functions.py",
+				"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown/linux/linuxFunctions.py",
+				"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown/README.md",
+				"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown/.gitignore",
+				"/home/sgorecki/archSetup/setup.sh",
+				"/home/sgorecki/archSetup/install/aur.txt",
+				"/home/sgorecki/archSetup/README.md",
+				"/home/sgorecki/archSetup/install/pacman.txt",
+				"/home/sgorecki/archSetup/install/flatpak.txt"
+			],
+			"find":
+			{
+				"height": 30.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"INSTALL_DIR",
+					"SCRIPT_DIR"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 30.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": false,
+			"output.find_results":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 56.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 181.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1277.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/sgorecki/Scripts/test/importDotfiles.sh",
+				"/home/sgorecki/Nextcloud/MLT/BUT 3/Avis poursuite d'étude/notes.txt",
+				"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown/common/functions.py",
+				"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown/linux/linuxFunctions.py",
+				"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown/README.md",
+				"/home/sgorecki/SynologyDrive/autre/programmes/Shutdown/.gitignore",
+				"/home/sgorecki/archSetup/setup.sh",
+				"/home/sgorecki/archSetup/install/aur.txt",
+				"/home/sgorecki/archSetup/README.md",
+				"/home/sgorecki/archSetup/install/pacman.txt",
+				"/home/sgorecki/archSetup/install/flatpak.txt"
+			],
+			"find":
+			{
+				"height": 30.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"INSTALL_DIR",
+					"SCRIPT_DIR"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 30.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": false,
+			"output.find_results":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"pinned_build_system": "",
+			"position": "0,0,0,0,0,20,20,1006,628,7040,1440,0",
+			"project": "",
+			"replace":
+			{
+				"height": 56.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 181.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

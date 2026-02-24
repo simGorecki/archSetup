@@ -1,6 +1,6 @@
 (
     output: "all",
-    source: Path("/home/sgorecki/Images/Wallpapers/ChatGPT Image 18 févr. 2026, 16_56_15.png"),
+    source: Path("/home/sgorecki/Images/Wallpapers/wallpaperflare.com_wallpaper.jpg"),
     filter_by_theme: true,
     rotation_frequency: 300,
     filter_method: Lanczos,
