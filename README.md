@@ -30,7 +30,7 @@ cd ..
 rm -rf archSetup
 ```
 
-# Script pour mettre à jours le dotfiles
+# Mettre à jours le dotfiles
 ```bash
 sudo chmod +x importDotfiles.sh
 ./importDotfiles.sh
@@ -38,3 +38,12 @@ git add -A
 git commit -m "description des modifications"
 git push
 ```
+
+# Ajouter des liens dans le dotfile
+
+Editer le fichier importDotfiles.sh
+Ajouter le path des fichiers / dossiers qu'on veut sauvegarder dans le dotfile dans le tableau au début du fichier.
+```bash
+SOURCES=( #mettre les paths ici
+```
+
